@@ -1,1 +1,1 @@
-# Trans-Friend
+# Translate-Friend
